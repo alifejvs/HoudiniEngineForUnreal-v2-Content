@@ -14,21 +14,6 @@
 
 	"Modules" :
 	[
-		{
-			"Name": "HoudiniEngine",
-			"Type": "Editor",
-			"LoadingPhase": "Default"
-		},
-		{
-			"Name" : "HoudiniEngineEditor",
-			"Type" : "Editor",
-			"LoadingPhase" : "PostEngineInit"
-		},
-		{
-			"Name" : "HoudiniEngineRuntime",
-			"Type" : "Runtime",
-			"LoadingPhase" : "Default"
-		},
 	],
 
 	"CanContainContent" : true,
